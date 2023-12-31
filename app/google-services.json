@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "824779948657",
+    "firebase_url": "https://e-scale-49b87-default-rtdb.firebaseio.com",
+    "project_id": "e-scale-49b87",
+    "storage_bucket": "e-scale-49b87.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824779948657:android:9f853784b9564ff16b11d0",
+        "android_client_info": {
+          "package_name": "com.example.escalecaculator"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAq34kZVb2xvl3mf7ZbvxDGhMvQjNHpZd4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
